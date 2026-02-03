@@ -6,6 +6,7 @@
 
 | Project | Status | Priority | Description | Folder |
 |---------|--------|----------|-------------|--------|
+| Apartment-Invoices-Thanu | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services | `Apartment-Invoices-Thanu - SR/` |
 | Website-Redesign | In Progress | High | Test project: Website overhaul | `Website-Redesign - SR/` |
 | Kunden-Onboarding | In Progress | Medium | Test project: Customer process | `Kunden-Onboarding - SR/` |
 | Internes-Tool | Ideas | Low | Test project: Internal tool | `Internes-Tool - SR/` |
@@ -22,4 +23,4 @@
 
 ---
 
-*Last updated: 2025-02-03*
+*Last updated: 2026-02-03*
