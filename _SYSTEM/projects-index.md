@@ -9,6 +9,7 @@
 | Apartment-Invoices-Thanu (Jan) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - January | `Apartment-Invoices-Thanu - SR/` |
 | Apartment-Invoices-Thanu (Feb) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - February | `Apartment-Invoices-Thanu - Feb/` |
 | Apartment-Invoices-Thanu (Apr) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - April | `Apartment-Invoices-Thanu - Apr/` |
+| Apartment-Invoices-Thanu (May) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - May | `Apartment-Invoices-Thanu - May/` |
 | Apartment-Invoices-Muthu (Feb) | ✅ Completed | High | Invoice generation for Muthu Cleaning & Maintenance - February | `Apartment-Invoices-Muthu - Feb/` |
 | MIM (Feb) | ✅ Completed | High | Invoice generation for Mimi's Sunny Beach Apartment (Epifania CY) - February | `MIM/` |
 | Website-Redesign | In Progress | High | Test project: Website overhaul | `Website-Redesign - SR/` |
@@ -27,4 +28,4 @@
 
 ---
 
-*Last updated: 2026-06-06*
+*Last updated: 2026-06-08*

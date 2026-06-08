@@ -4,6 +4,15 @@ Chronological documentation of all changes.
 
 ---
 
+### 2026-06-08
+- **Steve Rogers** - Apartment Invoices for Thanu - May 2026 completed
+  - Adapted generate_invoices.py for May data (generate_invoices_may.py)
+  - Generated 381 professional PDF invoices from Excel data
+  - Invoices for Krish Lee Holiday Services CY (May bookings)
+  - Invoice range: #20775 - #21155, Total: €34,635.94
+  - Invoice date: 31/05/26
+  - Output: `_PROJECTS/Apartment-Invoices-Thanu - May/Invoices/`
+
 ### 2026-06-06
 - **Steve Rogers** - Apartment Invoices for Thanu - April 2026 completed
   - Adapted generate_invoices.py for April data
