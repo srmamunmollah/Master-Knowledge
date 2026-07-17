@@ -1,6 +1,6 @@
 # MASTER-CONTEXT.md - Steve Rogers's Knowledge Base
 
-Last updated: 2025-02-03
+Last updated: 2026-07-17
 
 ---
 
@@ -29,6 +29,7 @@ Last updated: 2025-02-03
 
 | Project | Status | Priority | Description | Folder |
 |---------|--------|----------|-------------|--------|
+| Telegram-Boss-Tasks | Built (not yet live) | Medium | Local app turning boss's Telegram messages into tracked tasks | `_PROJECTS/Telegram-Boss-Tasks - SR/` |
 | Website-Redesign | In Progress | High | Test project: Fictional website overhaul | `_PROJECTS/Website-Redesign - SR/` |
 | Kunden-Onboarding | In Progress | Medium | Test project: Fictional customer process | `_PROJECTS/Kunden-Onboarding - SR/` |
 | Internes-Tool | Ideas | Low | Test project: Fictional internal tool | `_PROJECTS/Internes-Tool - SR/` |
@@ -86,6 +87,9 @@ Short version: Session start → git pull + read context. Session end → checkl
 ---
 
 ## Recent Changes
+
+### 2026-07-17
+- Built Telegram Boss Tasks app (see `_PROJECTS/Telegram-Boss-Tasks - SR/CONTEXT.md`)
 
 ### 2025-02-03
 - Initial setup via Team-Onboarding completed

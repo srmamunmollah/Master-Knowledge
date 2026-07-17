@@ -4,6 +4,16 @@ Chronological documentation of all changes.
 
 ---
 
+### 2026-07-17
+- **Steve Rogers** - Telegram Boss Tasks app built
+  - New self-contained project: Node.js/Express + better-sqlite3 + plain HTML/JS frontend
+  - Turns boss's Telegram group messages into a trackable task list (To Do / In Progress / Done)
+  - Long-polls Telegram `getUpdates` (LAN-only, no tunneling/webhooks); filters to one group + one sender, dedups by `update_id`
+  - Two hardcoded roles: owner (full control) and viewer (read-only) via session auth
+  - Verified: npm install/start clean, seed script for placeholder tasks, status updates persist across restart, role-based access control enforced (401/403 checked via curl + browser)
+  - Not yet connected to a real bot — Steve still needs to create it via @BotFather and fill in `.env`
+  - Output: `_PROJECTS/Telegram-Boss-Tasks - SR/`
+
 ### 2026-06-08
 - **Steve Rogers** - Apartment Invoices for Thanu - May 2026 completed
   - Adapted generate_invoices.py for May data (generate_invoices_may.py)

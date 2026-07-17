@@ -1,0 +1,20 @@
+{
+  "name": "telegram-boss-tasks",
+  "version": "1.0.0",
+  "description": "Local app that turns a boss's Telegram messages into tracked tasks.",
+  "private": true,
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "seed": "node server/seed.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}

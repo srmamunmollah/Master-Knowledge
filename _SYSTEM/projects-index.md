@@ -12,6 +12,7 @@
 | Apartment-Invoices-Thanu (May) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - May | `Apartment-Invoices-Thanu - May/` |
 | Apartment-Invoices-Muthu (Feb) | ✅ Completed | High | Invoice generation for Muthu Cleaning & Maintenance - February | `Apartment-Invoices-Muthu - Feb/` |
 | MIM (Feb) | ✅ Completed | High | Invoice generation for Mimi's Sunny Beach Apartment (Epifania CY) - February | `MIM/` |
+| Telegram-Boss-Tasks | ✅ Built (not yet live) | Medium | Local app turning boss's Telegram messages into tracked tasks | `Telegram-Boss-Tasks - SR/` |
 | Website-Redesign | In Progress | High | Test project: Website overhaul | `Website-Redesign - SR/` |
 | Kunden-Onboarding | In Progress | Medium | Test project: Customer process | `Kunden-Onboarding - SR/` |
 | Internes-Tool | Ideas | Low | Test project: Internal tool | `Internes-Tool - SR/` |
@@ -28,4 +29,4 @@
 
 ---
 
-*Last updated: 2026-06-08*
+*Last updated: 2026-07-17*
