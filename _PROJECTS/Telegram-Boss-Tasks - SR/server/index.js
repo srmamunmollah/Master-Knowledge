@@ -55,8 +55,14 @@ app.patch('/api/tasks/:id', requireOwner, (req, res) => {
 
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
-app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
+// Default 0.0.0.0 so the app is reachable from other devices on the same LAN
+// (the local/laptop setup this app was originally built for). When running
+// behind a reverse proxy (see the server deployment), set HOST=127.0.0.1
+// in .env so the app is only reachable through the proxy.
+const HOST = process.env.HOST || '0.0.0.0';
+
+app.listen(PORT, HOST, () => {
+  console.log(`Server running at http://${HOST}:${PORT}`);
 });
 
 startPolling();

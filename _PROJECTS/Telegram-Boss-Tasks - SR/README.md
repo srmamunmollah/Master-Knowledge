@@ -1,6 +1,8 @@
 # Telegram Boss Tasks
 
-Turns your boss's messages in a Telegram group into a task list you can track. Runs entirely on your own laptop — no cloud services, no external database, no paid APIs.
+Turns your boss's messages in a Telegram group into a task list you can track. No third-party cloud services, no external database, no paid APIs.
+
+> **This app is live** at **https://95-217-207-92.sslip.io**, running on the Hetzner server rather than a laptop — the original same-WiFi design didn't work once Steve (Bangladesh) and his boss (Cyprus) needed access from different countries. See [CONTEXT.md](CONTEXT.md) for the live deployment details (systemd service, nginx, HTTPS cert, how to redeploy). The instructions below describe the original laptop/LAN setup, which still works for local testing.
 
 ## How it works
 

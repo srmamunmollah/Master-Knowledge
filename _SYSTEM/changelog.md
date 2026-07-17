@@ -14,6 +14,16 @@ Chronological documentation of all changes.
   - Not yet connected to a real bot — Steve still needs to create it via @BotFather and fill in `.env`
   - Output: `_PROJECTS/Telegram-Boss-Tasks - SR/`
 
+### 2026-07-17 (deployment)
+- **Steve Rogers** - Telegram Boss Tasks deployed to the Hetzner server
+  - Reason: original laptop/same-WiFi design broke once Steve (Bangladesh) and his boss (Cyprus) needed access from different countries
+  - Installed Node 20 + certbot on 95.217.207.92; app now runs under systemd (`telegram-boss-tasks.service`) as a dedicated unprivileged user `tgtasks`
+  - nginx reverse proxy + free Let's Encrypt HTTPS cert for `95-217-207-92.sslip.io` (no domain purchase needed)
+  - App port bound to `127.0.0.1` only; confirmed not reachable directly from the internet
+  - Verified login, health check, and task list all work over the public HTTPS URL
+  - Still needs real `BOT_TOKEN`/`GROUP_CHAT_ID`/`BOSS_USER_ID` from Steve to go fully live
+  - Output: `_PROJECTS/Telegram-Boss-Tasks - SR/CONTEXT.md`
+
 ### 2026-06-08
 - **Steve Rogers** - Apartment Invoices for Thanu - May 2026 completed
   - Adapted generate_invoices.py for May data (generate_invoices_may.py)

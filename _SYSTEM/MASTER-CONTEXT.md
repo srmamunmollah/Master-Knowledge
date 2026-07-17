@@ -29,7 +29,7 @@ Last updated: 2026-07-17
 
 | Project | Status | Priority | Description | Folder |
 |---------|--------|----------|-------------|--------|
-| Telegram-Boss-Tasks | Built (not yet live) | Medium | Local app turning boss's Telegram messages into tracked tasks | `_PROJECTS/Telegram-Boss-Tasks - SR/` |
+| Telegram-Boss-Tasks | Deployed, awaiting bot credentials | Medium | Turns boss's Telegram messages into tracked tasks; live at https://95-217-207-92.sslip.io | `_PROJECTS/Telegram-Boss-Tasks - SR/` |
 | Website-Redesign | In Progress | High | Test project: Fictional website overhaul | `_PROJECTS/Website-Redesign - SR/` |
 | Kunden-Onboarding | In Progress | Medium | Test project: Fictional customer process | `_PROJECTS/Kunden-Onboarding - SR/` |
 | Internes-Tool | Ideas | Low | Test project: Fictional internal tool | `_PROJECTS/Internes-Tool - SR/` |
