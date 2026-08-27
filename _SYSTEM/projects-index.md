@@ -8,6 +8,13 @@
 |---------|--------|----------|-------------|--------|
 | Apartment-Invoices-Thanu | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services | `Apartment-Invoices-Thanu - SR/` |
 | Receipt-Organisation-2025 | In Progress | High | Reporting Hub Q1009: 2025 signed receipts for Antonis & Jennifer | `Receipt-Organisation-2025 - SR/` |
+| Apartment-Invoices-Thanu (Jan) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - January | `Apartment-Invoices-Thanu - SR/` |
+| Apartment-Invoices-Thanu (Feb) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - February | `Apartment-Invoices-Thanu - Feb/` |
+| Apartment-Invoices-Thanu (Apr) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - April | `Apartment-Invoices-Thanu - Apr/` |
+| Apartment-Invoices-Thanu (May) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - May | `Apartment-Invoices-Thanu - May/` |
+| Apartment-Invoices-Muthu (Feb) | ✅ Completed | High | Invoice generation for Muthu Cleaning & Maintenance - February | `Apartment-Invoices-Muthu - Feb/` |
+| MIM (Feb) | ✅ Completed | High | Invoice generation for Mimi's Sunny Beach Apartment (Epifania CY) - February | `MIM/` |
+| Telegram-Boss-Tasks | ✅ Deployed (awaiting bot credentials) | Medium | Turns boss's Telegram messages into tracked tasks; live at https://95-217-207-92.sslip.io | `Telegram-Boss-Tasks - SR/` |
 | Website-Redesign | In Progress | High | Test project: Website overhaul | `Website-Redesign - SR/` |
 | Kunden-Onboarding | In Progress | Medium | Test project: Customer process | `Kunden-Onboarding - SR/` |
 | Internes-Tool | Ideas | Low | Test project: Internal tool | `Internes-Tool - SR/` |

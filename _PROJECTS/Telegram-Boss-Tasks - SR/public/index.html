@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Boss Tasks</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Boss Tasks</h1>
+  <div id="userInfo"></div>
+  <button id="logoutBtn">Log out</button>
+</header>
+<main>
+  <table id="taskTable">
+    <thead>
+      <tr>
+        <th>Message</th>
+        <th>Created</th>
+        <th>Status</th>
+        <th id="actionsHeader">Actions</th>
+      </tr>
+    </thead>
+    <tbody id="taskBody"></tbody>
+  </table>
+  <p id="emptyState" style="display:none;">No tasks yet.</p>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
