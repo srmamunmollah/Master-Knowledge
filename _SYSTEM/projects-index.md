@@ -8,6 +8,7 @@
 |---------|--------|----------|-------------|--------|
 | Apartment-Invoices-Thanu | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services | `Apartment-Invoices-Thanu - SR/` |
 | Receipt-Organisation-2025 | In Progress | High | Reporting Hub Q1009: 2025 signed receipts for Antonis & Jennifer | `Receipt-Organisation-2025 - SR/` |
+| Tax-Ruling-Old-Invoices-2026 | Blocked — awaiting reply | High | Reporting Hub Q1010: binding rule from Maria Michail on pre-2024 invoices | `Tax-Ruling-Old-Invoices-2026 - SR/` |
 | Apartment-Invoices-Thanu (Jan) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - January | `Apartment-Invoices-Thanu - SR/` |
 | Apartment-Invoices-Thanu (Feb) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - February | `Apartment-Invoices-Thanu - Feb/` |
 | Apartment-Invoices-Thanu (Apr) | ✅ Completed | High | Invoice generation for Krish Lee Holiday Services - April | `Apartment-Invoices-Thanu - Apr/` |

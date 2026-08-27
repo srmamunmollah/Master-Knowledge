@@ -4,6 +4,18 @@ Chronological documentation of all changes.
 
 ---
 
+### 2026-08-27 (later same day)
+- **Mamun Mollah** - Tax Ruling on Old Invoices (Reporting Hub Q1010) started
+  - Task priority A: binding written rule needed from Maria Michail (accountant/tax advisor) on whether audited-year invoices (up to 2024) may be voided/written off, or only value-adjusted in 2026
+  - Explicitly NOT answerable internally — Jacob is not the tax authority; no informal or fabricated answer substitutes for her written ruling
+  - Searched Dropbox and local Bitrix24 folder for Maria Michail's contact info — not found locally (Bitrix24 folder is an empty local placeholder); Mamun getting her real address from the live tax pipeline himself
+  - Drafted the real email to send her: `Tax-Ruling-Old-Invoices-2026 - SR/Email_to_Maria_Michail_Q1010.md`
+  - Set up an active freeze notice + block list placeholder for the ~105 invoices over 90 days: `Tax-Ruling-Old-Invoices-2026 - SR/Old_Document_Freeze_Notice.md` — no old document touched until her written answer is filed
+  - Drafted Reporting Hub 1010 answer (status: awaiting reply): `Tax-Ruling-Old-Invoices-2026 - SR/Answer_to_Question_1010.md`
+  - New project added to `projects-index.md`
+  - Also fixed: `Receipt-Organisation-2025 - SR/` had again been moved out of `_PROJECTS` and renamed with a leading underscore (second occurrence, likely accidental Finder action) — moved back, all 27 files intact both times
+  - Next: Mamun sends the email and supplies the 105-invoice list; on Maria's reply, file it, lift the freeze, proceed per her actual ruling
+
 ### 2026-08-27
 - **Mamun Mollah** - Receipt Organisation 2025 (Reporting Hub Q1009) started
   - Task assigned by Rico; Rico had already committed an answer to Nikitas
